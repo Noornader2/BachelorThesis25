@@ -1,4 +1,4 @@
-# Bachelor Thesis: Anomaly Detection in Business Processes
+# Bachelor Thesis: Detecting Anomaly in Business Processes Using AI and Process Mining
 
 This repository contains the code, dataset, and diagrams for my bachelor's thesis on detecting anomalies in business processes using AI and process mining.
 
