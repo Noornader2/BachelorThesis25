@@ -6,7 +6,7 @@ This repository contains the code, dataset, and diagrams for my bachelor's thesi
 
 - `code/` - Google Colab notebook with full implementation
 - `data/` - BPI Challenge 2012 dataset (XES.gz format)
-- `images/` - Optional architecture diagrams
+- `images/` -  architecture diagrams
 
 ## 🛠 Tools Used
 
